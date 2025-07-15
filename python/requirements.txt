@@ -1,7 +1,7 @@
 bidict==0.23.1
 blinker==1.9.0
 Brotli==1.1.0
-certifi==2025.6.15
+certifi==2025.7.14
 charset-normalizer==3.4.2
 click==8.2.1
 ConfigArgParse==1.7.1
@@ -16,7 +16,7 @@ idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
 locust==2.37.12
-locust-cloud==1.25.2
+locust-cloud==1.26.0
 MarkupSafe==3.0.2
 msgpack==1.1.1
 platformdirs==4.3.8
